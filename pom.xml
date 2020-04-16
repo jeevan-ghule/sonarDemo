@@ -55,8 +55,6 @@
 				<sonar.scm.provider>
 					git
 				</sonar.scm.provider>
-
-
 			</properties>
 		</profile>
 	</profiles>
